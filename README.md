@@ -3,7 +3,7 @@
 ## Overview of Election Audit
 
 - Link to project file
-- https://github.com/MichaelG-B/Stock-analysis/blob/bd67d3f1078e1bb428f11d2a49fb341d00c3b4ed/VBA_Challenge.xlsm
+- https://github.com/MichaelG-B/Election_Analysis/blob/0f46cf3cb07b1401ac7a7ddc3d40411d703cd824/PyPoll_Challenge.py
 
 ### Purpose
 
@@ -200,7 +200,7 @@ with open(file_to_save, "w") as txt_file:
 5. Election winner as well as their vote count and percentage of total votes
 ![PNG 5.Analysis](https://github.com/MichaelG-B/Election_Analysis/blob/8c8a0219ac7a485d8812a5758724678f45d1340c/5..png)
 6. Results in our election_results.txt file
-![Txt file PNG.Analysis](https://github.com/MichaelG-B/Election_Analysis/blob/8c8a0219ac7a485d8812a5758724678f45d1340c/election_analysis.txt)
+![Txt file PNG.Analysis](https://github.com/MichaelG-B/Election_Analysis/blob/0f46cf3cb07b1401ac7a7ddc3d40411d703cd824/txt%20file.png)
 
 ## Election Audit Summary
 
